@@ -1,0 +1,3 @@
+data_path: "data/raw/pbmc10k.h5ad"
+min_genes_per_cell: 200
+max_mito_pct: 5

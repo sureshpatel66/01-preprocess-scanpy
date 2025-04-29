@@ -1,0 +1,7 @@
+name: preprocess-scanpy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - scanpy
+  - pyyaml
